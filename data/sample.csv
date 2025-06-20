@@ -1,0 +1,501 @@
+customer_id,full_name,gender,email,phone_number,registration_date,age,estimated_monthly_income,employment_status,credit_score,location,group_member,device_type,referral_source,default_flag
+CUST0001,Emma Johnson,female,emma.johnson@example.com,(213) 555-0147,2019-03-15,34,4850.0,employed,712,Los Angeles,False,mobile,google_ads,0
+CUST0002,Michael Smith,male,michael.smith@example.com,(305) 555-0182,2020-07-22,28,3200.0,employed,685,Miami,True,desktop,facebook,0
+CUST0003,Sophia Williams,female,sophia.williams@example.com,(312) 555-0125,2018-11-05,42,8750.0,self-employed,698,Chicago,False,tablet,referral_friend,0
+CUST0004,James Brown,male,james.brown@example.com,(713) 555-0168,2021-01-30,51,12500.0,employed,730,Houston,True,mobile,instagram,0
+CUST0005,Olivia Jones,female,olivia.jones@example.com,(212) 555-0193,2019-09-14,23,1500.0,student,625,New York,False,mobile,organic,1
+CUST0006,Robert Garcia,male,robert.garcia@example.com,(305) 555-0114,2020-05-18,37,6200.0,employed,705,Miami,True,desktop,facebook,0
+CUST0007,Ava Martinez,female,ava.martinez@example.com,(213) 555-0176,2018-07-22,45,9800.0,self-employed,692,Los Angeles,False,mobile,google_ads,0
+CUST0008,David Rodriguez,male,david.rodriguez@example.com,(312) 555-0139,2021-11-03,29,2800.0,employed,667,Chicago,False,tablet,organic,0
+CUST0009,Isabella Wilson,female,isabella.wilson@example.com,(713) 555-0152,2019-12-12,58,11500.0,retired,745,Houston,True,desktop,referral_friend,0
+CUST0010,William Anderson,male,william.anderson@example.com,(212) 555-0185,2020-02-28,31,4500.0,employed,710,New York,False,mobile,instagram,0
+CUST0011,Mia Thomas,female,mia.thomas@example.com,(305) 555-0128,2018-04-17,26,2300.0,student,630,Miami,False,tablet,facebook,1
+CUST0012,Joseph Hernandez,male,joseph.hernandez@example.com,(213) 555-0161,2021-08-09,39,7800.0,employed,725,Los Angeles,True,desktop,google_ads,0
+CUST0013,Charlotte Moore,female,charlotte.moore@example.com,(312) 555-0144,2019-06-25,47,10200.0,self-employed,688,Chicago,False,mobile,organic,0
+CUST0014,Daniel Martin,male,daniel.martin@example.com,(713) 555-0177,2020-10-11,33,5400.0,employed,702,Houston,True,tablet,referral_friend,0
+CUST0015,Amelia Jackson,female,amelia.jackson@example.com,(212) 555-0110,2018-12-19,29,3800.0,employed,675,New York,False,mobile,instagram,0
+CUST0016,Alexander Thompson,male,alexander.thompson@example.com,(305) 555-0133,2021-04-05,41,8900.0,self-employed,715,Miami,True,desktop,facebook,0
+CUST0017,Harper White,female,harper.white@example.com,(213) 555-0166,2019-08-22,36,6700.0,employed,695,Los Angeles,False,tablet,google_ads,0
+CUST0018,Ethan Lopez,male,ethan.lopez@example.com,(312) 555-0199,2020-01-14,52,11800.0,employed,738,Chicago,True,mobile,organic,0
+CUST0019,Emily Lee,female,emily.lee@example.com,(713) 555-0122,2018-05-30,27,2900.0,student,645,Houston,False,desktop,referral_friend,1
+CUST0020,Matthew Gonzalez,male,matthew.gonzalez@example.com,(212) 555-0155,2021-07-07,44,9500.0,self-employed,707,New York,False,mobile,instagram,0
+CUST0021,Abigail Harris,female,abigail.harris@example.com,(305) 555-0188,2019-02-18,31,5100.0,employed,690,Miami,True,tablet,facebook,0
+CUST0022,Andrew Clark,male,andrew.clark@example.com,(213) 555-0111,2020-09-23,38,7200.0,employed,718,Los Angeles,False,desktop,google_ads,0
+CUST0023,Elizabeth Lewis,female,elizabeth.lewis@example.com,(312) 555-0144,2018-03-12,56,12400.0,retired,742,Chicago,True,mobile,organic,0
+CUST0024,Joshua Robinson,male,joshua.robinson@example.com,(713) 555-0177,2021-05-29,25,2100.0,student,628,Houston,False,tablet,referral_friend,1
+CUST0025,Sofia Walker,female,sofia.walker@example.com,(212) 555-0100,2019-11-16,43,8800.0,self-employed,700,New York,False,desktop,instagram,0
+CUST0026,Benjamin Hall,male,benjamin.hall@example.com,(305) 555-0133,2020-06-09,35,5800.0,employed,703,Miami,False,mobile,facebook,0
+CUST0027,Avery Allen,female,avery.allen@example.com,(213) 555-0166,2018-09-27,48,10700.0,self-employed,692,Los Angeles,True,tablet,google_ads,0
+CUST0028,Scarlett Young,female,scarlett.young@example.com,(312) 555-0199,2021-02-14,30,4100.0,employed,685,Chicago,False,desktop,organic,0
+CUST0029,Daniel King,male,daniel.king@example.com,(713) 555-0122,2019-05-01,39,7600.0,employed,715,Houston,True,mobile,referral_friend,0
+CUST0030,Madison Wright,female,madison.wright@example.com,(212) 555-0155,2020-08-18,27,2500.0,student,635,New York,False,tablet,instagram,1
+CUST0031,Jackson Scott,male,jackson.scott@example.com,(305) 555-0188,2018-12-05,44,9200.0,self-employed,708,Miami,False,desktop,facebook,0
+CUST0032,Victoria Green,female,victoria.green@example.com,(213) 555-0111,2021-06-22,52,12100.0,retired,740,Los Angeles,True,mobile,google_ads,0
+CUST0033,Aiden Adams,male,aiden.adams@example.com,(312) 555-0144,2019-09-07,33,4900.0,employed,697,Chicago,False,tablet,organic,0
+CUST0034,Chloe Baker,female,chloe.baker@example.com,(713) 555-0177,2020-03-24,26,2200.0,student,632,Houston,False,desktop,referral_friend,1
+CUST0035,Lucas Nelson,male,lucas.nelson@example.com,(212) 555-0100,2018-06-11,41,8500.0,self-employed,712,New York,True,mobile,instagram,0
+CUST0036,Penelope Carter,female,penelope.carter@example.com,(305) 555-0133,2021-01-28,37,6500.0,employed,705,Miami,False,tablet,facebook,0
+CUST0037,Jack Mitchell,male,jack.mitchell@example.com,(213) 555-0166,2019-04-15,29,3600.0,employed,680,Los Angeles,False,desktop,google_ads,0
+CUST0038,Layla Perez,female,layla.perez@example.com,(312) 555-0199,2020-07-30,45,9900.0,self-employed,695,Chicago,True,mobile,organic,0
+CUST0039,Christopher Roberts,male,christopher.roberts@example.com,(713) 555-0122,2018-10-17,54,11600.0,retired,735,Houston,False,tablet,referral_friend,0
+CUST0040,Riley Turner,female,riley.turner@example.com,(212) 555-0155,2021-03-12,32,4700.0,employed,690,New York,False,desktop,instagram,0
+CUST0041,Julian Phillips,male,julian.phillips@example.com,(305) 555-0188,2019-07-25,38,7100.0,employed,718,Miami,True,mobile,facebook,0
+CUST0042,Nora Campbell,female,nora.campbell@example.com,(213) 555-0111,2020-11-08,47,10400.0,self-employed,700,Los Angeles,False,tablet,google_ads,0
+CUST0043,Levi Parker,male,levi.parker@example.com,(312) 555-0144,2018-02-21,25,2000.0,student,620,Chicago,False,desktop,organic,1
+CUST0044,Hannah Evans,female,hannah.evans@example.com,(713) 555-0177,2021-09-14,43,8700.0,self-employed,705,Houston,True,mobile,referral_friend,0
+CUST0045,Samuel Edwards,male,samuel.edwards@example.com,(212) 555-0100,2019-12-27,36,6300.0,employed,695,New York,False,tablet,instagram,0
+CUST0046,Zoe Collins,female,zoe.collins@example.com,(305) 555-0133,2020-05-10,50,11200.0,employed,730,Miami,False,desktop,facebook,0
+CUST0047,Owen Stewart,male,owen.stewart@example.com,(213) 555-0166,2018-08-03,28,3300.0,employed,675,Los Angeles,True,mobile,google_ads,0
+CUST0048,Eliana Sanchez,female,eliana.sanchez@example.com,(312) 555-0199,2021-04-16,34,5200.0,employed,702,Chicago,False,tablet,organic,0
+CUST0049,Gabriel Morris,male,gabriel.morris@example.com,(713) 555-0122,2019-10-29,39,7400.0,self-employed,710,Houston,False,desktop,referral_friend,0
+CUST0050,Lillian Rogers,female,lillian.rogers@example.com,(212) 555-0155,2020-02-11,31,4300.0,employed,688,New York,True,mobile,instagram,0
+CUST0051,Henry Reed,male,henry.reed@example.com,(305) 555-0188,2018-07-24,42,8200.0,self-employed,705,Miami,False,desktop,facebook,0
+CUST0052,Stella Cook,female,stella.cook@example.com,(213) 555-0111,2021-01-07,29,3700.0,employed,682,Los Angeles,True,mobile,google_ads,0
+CUST0053,Leo Morgan,male,leo.morgan@example.com,(312) 555-0144,2019-04-20,47,10100.0,self-employed,698,Chicago,False,tablet,organic,0
+CUST0054,Luna Bell,female,luna.bell@example.com,(713) 555-0177,2020-09-03,24,1800.0,student,618,Houston,False,desktop,referral_friend,1
+CUST0055,Muhammad Murphy,male,muhammad.murphy@example.com,(212) 555-0100,2018-12-16,35,5900.0,employed,710,New York,True,mobile,instagram,0
+CUST0056,Grace Bailey,female,grace.bailey@example.com,(305) 555-0133,2021-06-29,53,11900.0,retired,738,Miami,False,tablet,facebook,0
+CUST0057,Jack Rivera,male,jack.rivera@example.com,(213) 555-0166,2019-09-12,40,7800.0,employed,715,Los Angeles,False,desktop,google_ads,0
+CUST0058,Violet Cooper,female,violet.cooper@example.com,(312) 555-0199,2020-02-25,31,4400.0,employed,692,Chicago,True,mobile,organic,0
+CUST0059,Theodore Richardson,male,theodore.richardson@example.com,(713) 555-0122,2018-05-08,45,9600.0,self-employed,703,Houston,False,tablet,referral_friend,0
+CUST0060,Hazel Cox,female,hazel.cox@example.com,(212) 555-0155,2021-08-21,27,2600.0,student,630,New York,False,desktop,instagram,1
+CUST0061,Alexander Howard,male,alexander.howard@example.com,(305) 555-0188,2019-11-04,38,6900.0,employed,708,Miami,True,mobile,facebook,0
+CUST0062,Ella Ward,female,ella.ward@example.com,(213) 555-0111,2020-04-17,49,10800.0,self-employed,695,Los Angeles,False,tablet,google_ads,0
+CUST0063,Samuel Torres,male,samuel.torres@example.com,(312) 555-0144,2018-09-30,33,5100.0,employed,700,Chicago,False,desktop,organic,0
+CUST0064,Ellie Peterson,female,ellie.peterson@example.com,(713) 555-0177,2021-03-13,22,1600.0,student,625,Houston,True,mobile,referral_friend,1
+CUST0065,Joseph Gray,male,joseph.gray@example.com,(212) 555-0100,2019-06-26,41,8400.0,self-employed,712,New York,False,tablet,instagram,0
+CUST0066,Aurora Ramirez,female,aurora.ramirez@example.com,(305) 555-0133,2020-10-09,36,6400.0,employed,697,Miami,False,desktop,facebook,0
+CUST0067,John James,male,john.james@example.com,(213) 555-0166,2018-01-22,44,9300.0,employed,720,Los Angeles,True,mobile,google_ads,0
+CUST0068,Scarlet Watson,female,scarlet.watson@example.com,(312) 555-0199,2021-07-05,30,3900.0,employed,685,Chicago,False,tablet,organic,0
+CUST0069,David Brooks,male,david.brooks@example.com,(713) 555-0122,2019-10-18,52,11700.0,retired,732,Houston,False,desktop,referral_friend,0
+CUST0070,Nova Kelly,female,nova.kelly@example.com,(212) 555-0155,2020-03-31,28,3400.0,employed,675,New York,True,mobile,instagram,0
+CUST0071,Julian Sanders,male,julian.sanders@example.com,(305) 555-0188,2018-06-14,39,7500.0,self-employed,710,Miami,False,tablet,facebook,0
+CUST0072,Emilia Price,female,emilia.price@example.com,(213) 555-0111,2021-09-27,46,10000.0,employed,705,Los Angeles,False,desktop,google_ads,0
+CUST0073,Charles Bennett,male,charles.bennett@example.com,(312) 555-0144,2019-12-10,34,5300.0,employed,698,Chicago,True,mobile,organic,0
+CUST0074,Everly Wood,female,everly.wood@example.com,(713) 555-0177,2020-05-23,25,1900.0,student,622,Houston,False,tablet,referral_friend,1
+CUST0075,Thomas Barnes,male,thomas.barnes@example.com,(212) 555-0100,2018-08-06,43,8900.0,self-employed,715,New York,False,desktop,instagram,0
+CUST0076,Eleanor Ross,female,eleanor.ross@example.com,(305) 555-0133,2021-02-19,37,6600.0,employed,703,Miami,True,mobile,facebook,0
+CUST0077,Christopher Henderson,male,christopher.henderson@example.com,(213) 555-0166,2019-05-02,48,10600.0,employed,695,Los Angeles,False,tablet,google_ads,0
+CUST0078,Madeline Coleman,female,madeline.coleman@example.com,(312) 555-0199,2020-08-15,32,4600.0,employed,690,Chicago,False,desktop,organic,0
+CUST0079,Andrew Jenkins,male,andrew.jenkins@example.com,(713) 555-0122,2018-11-28,55,12200.0,retired,740,Houston,True,mobile,referral_friend,0
+CUST0080,Lydia Powell,female,lydia.powell@example.com,(212) 555-0155,2021-04-11,26,2400.0,student,635,New York,False,tablet,instagram,1
+CUST0081,Joshua Long,male,joshua.long@example.com,(305) 555-0188,2019-07-24,40,7700.0,self-employed,712,Miami,False,desktop,facebook,0
+CUST0082,Natalie Patterson,female,natalie.patterson@example.com,(213) 555-0111,2020-12-07,45,9700.0,employed,700,Los Angeles,True,mobile,google_ads,0
+CUST0083,Ezra Hughes,male,ezra.hughes@example.com,(312) 555-0144,2018-03-20,33,4900.0,employed,695,Chicago,False,tablet,organic,0
+CUST0084,Savannah Flores,female,savannah.flores@example.com,(713) 555-0177,2021-06-03,29,3500.0,student,640,Houston,False,desktop,referral_friend,0
+CUST0085,Hudson Washington,male,hudson.washington@example.com,(212) 555-0100,2019-09-16,42,8600.0,self-employed,718,New York,True,mobile,instagram,0
+CUST0086,Bella Butler,female,bella.butler@example.com,(305) 555-0133,2020-02-29,36,6100.0,employed,705,Miami,False,tablet,facebook,0
+CUST0087,Grayson Simmons,male,grayson.simmons@example.com,(213) 555-0166,2018-05-12,47,10300.0,employed,698,Los Angeles,False,desktop,google_ads,0
+CUST0088,Ariana Foster,female,ariana.foster@example.com,(312) 555-0199,2021-08-25,31,4200.0,employed,685,Chicago,True,mobile,organic,0
+CUST0089,Carter Gonzales,male,carter.gonzales@example.com,(713) 555-0122,2019-11-08,53,12000.0,retired,735,Houston,False,tablet,referral_friend,0
+CUST0090,Hailey Bryant,female,hailey.bryant@example.com,(212) 555-0155,2020-04-21,27,2700.0,student,628,New York,False,desktop,instagram,1
+CUST0091,Landon Russell,male,landon.russell@example.com,(305) 555-0188,2018-07-14,39,7300.0,employed,705,Miami,False,mobile,facebook,0
+CUST0092,Kinsley Griffin,female,kinsley.griffin@example.com,(213) 555-0111,2021-01-27,44,9100.0,self-employed,712,Los Angeles,True,desktop,google_ads,0
+CUST0093,Nolan Diaz,male,nolan.diaz@example.com,(312) 555-0144,2019-04-10,30,3800.0,employed,682,Chicago,False,tablet,organic,0
+CUST0094,Paisley Hayes,female,paisley.hayes@example.com,(713) 555-0177,2020-09-23,25,1900.0,student,615,Houston,False,mobile,referral_friend,1
+CUST0095,Jeremiah Myers,male,jeremiah.myers@example.com,(212) 555-0100,2018-12-06,48,10500.0,employed,725,New York,True,desktop,instagram,0
+CUST0096,Athena Ford,female,athena.ford@example.com,(305) 555-0133,2021-06-19,35,5600.0,employed,698,Miami,False,tablet,facebook,0
+CUST0097,Easton Hamilton,male,easton.hamilton@example.com,(213) 555-0166,2019-09-02,41,8200.0,self-employed,710,Los Angeles,False,mobile,google_ads,0
+CUST0098,Serenity Graham,female,serenity.graham@example.com,(312) 555-0199,2020-02-15,29,3300.0,employed,675,Chicago,True,desktop,organic,0
+CUST0099,Colton Sullivan,male,colton.sullivan@example.com,(713) 555-0122,2018-05-28,52,11800.0,retired,738,Houston,False,tablet,referral_friend,0
+CUST0100,Willow Wallace,female,willow.wallace@example.com,(212) 555-0155,2021-08-11,26,2200.0,student,630,New York,False,mobile,instagram,1
+CUST0101,Greyson Woods,male,greyson.woods@example.com,(305) 555-0188,2019-11-24,37,6500.0,employed,703,Miami,True,desktop,facebook,0
+CUST0102,Nevaeh Cole,female,nevaeh.cole@example.com,(213) 555-0111,2020-04-07,45,9600.0,self-employed,705,Los Angeles,False,tablet,google_ads,0
+CUST0103,Rowan West,male,rowan.west@example.com,(312) 555-0144,2018-09-20,33,4900.0,employed,692,Chicago,False,mobile,organic,0
+CUST0104,Emery Jordan,female,emery.jordan@example.com,(713) 555-0177,2021-03-03,24,1700.0,student,620,Houston,True,desktop,referral_friend,1
+CUST0105,Jameson Owens,male,jameson.owens@example.com,(212) 555-0100,2019-06-16,40,7900.0,employed,715,New York,False,tablet,instagram,0
+CUST0106,Lyla Reynolds,female,lyla.reynolds@example.com,(305) 555-0133,2020-10-29,36,6100.0,employed,700,Miami,False,mobile,facebook,0
+CUST0107,Braxton Fisher,male,braxton.fisher@example.com,(213) 555-0166,2018-01-12,47,10200.0,self-employed,698,Los Angeles,True,desktop,google_ads,0
+CUST0108,Eliza Ellis,female,eliza.ellis@example.com,(312) 555-0199,2021-07-25,31,4200.0,employed,685,Chicago,False,tablet,organic,0
+CUST0109,Declan Harrison,male,declan.harrison@example.com,(713) 555-0122,2019-10-08,54,12100.0,retired,735,Houston,False,mobile,referral_friend,0
+CUST0110,Kylie Gibson,female,kylie.gibson@example.com,(212) 555-0155,2020-03-21,28,3100.0,student,635,New York,True,desktop,instagram,1
+CUST0111,Sawyer Mcdonald,male,sawyer.mcdonald@example.com,(305) 555-0188,2018-06-04,39,7400.0,employed,712,Miami,False,tablet,facebook,0
+CUST0112,Adalynn Cruz,female,adalynn.cruz@example.com,(213) 555-0111,2021-09-17,46,9900.0,self-employed,705,Los Angeles,False,mobile,google_ads,0
+CUST0113,Kayden Marshall,male,kayden.marshall@example.com,(312) 555-0144,2019-12-30,34,5200.0,employed,698,Chicago,True,desktop,organic,0
+CUST0114,Arya Ortiz,female,arya.ortiz@example.com,(713) 555-0177,2020-05-13,25,2000.0,student,625,Houston,False,tablet,referral_friend,1
+CUST0115,Jesse Gomez,male,jesse.gomez@example.com,(212) 555-0100,2018-08-26,43,8800.0,employed,718,New York,False,mobile,instagram,0
+CUST0116,Emersyn Murray,female,emersyn.murray@example.com,(305) 555-0133,2021-02-09,37,6700.0,employed,705,Miami,True,desktop,facebook,0
+CUST0117,Maxwell Freeman,male,maxwell.freeman@example.com,(213) 555-0166,2019-05-22,49,10900.0,self-employed,700,Los Angeles,False,tablet,google_ads,0
+CUST0118,Melanie Wells,female,melanie.wells@example.com,(312) 555-0199,2020-08-05,32,4500.0,employed,690,Chicago,False,mobile,organic,0
+CUST0119,Calvin Webb,male,calvin.webb@example.com,(713) 555-0122,2018-11-18,56,12300.0,retired,742,Houston,True,desktop,referral_friend,0
+CUST0120,Valeria Simpson,female,valeria.simpson@example.com,(212) 555-0155,2021-04-01,27,2600.0,student,630,New York,False,tablet,instagram,1
+CUST0121,Joel Stevens,male,joel.stevens@example.com,(305) 555-0188,2019-07-14,40,7800.0,employed,715,Miami,False,mobile,facebook,0
+CUST0122,Adeline Tucker,female,adeline.tucker@example.com,(213) 555-0111,2020-12-27,45,9700.0,self-employed,703,Los Angeles,True,desktop,google_ads,0
+CUST0123,Zachary Porter,male,zachary.porter@example.com,(312) 555-0144,2018-03-10,33,5000.0,employed,695,Chicago,False,tablet,organic,0
+CUST0124,Quinn Hunter,female,quinn.hunter@example.com,(713) 555-0177,2021-06-23,29,3400.0,student,638,Houston,False,mobile,referral_friend,0
+CUST0125,Asher Hicks,male,asher.hicks@example.com,(212) 555-0100,2019-09-06,42,8500.0,employed,712,New York,True,desktop,instagram,0
+CUST0126,Alina Crawford,female,alina.crawford@example.com,(305) 555-0133,2020-02-19,36,6200.0,employed,705,Miami,False,tablet,facebook,0
+CUST0127,Emmett Henry,male,emmett.henry@example.com,(213) 555-0166,2018-05-02,48,10600.0,self-employed,700,Los Angeles,False,mobile,google_ads,0
+CUST0128,Esther Boyd,female,esther.boyd@example.com,(312) 555-0199,2021-08-15,31,4300.0,employed,688,Chicago,True,desktop,organic,0
+CUST0129,Theo Mason,male,theo.mason@example.com,(713) 555-0122,2019-11-28,53,11900.0,retired,735,Houston,False,tablet,referral_friend,0
+CUST0130,Elise Morales,female,elise.morales@example.com,(212) 555-0155,2020-04-11,26,2300.0,student,628,New York,False,mobile,instagram,1
+CUST0131,Jasper Kennedy,male,jasper.kennedy@example.com,(305) 555-0188,2018-07-24,39,7600.0,employed,715,Miami,True,desktop,facebook,0
+CUST0132,Lucia Warren,female,lucia.warren@example.com,(213) 555-0111,2021-01-07,46,10100.0,self-employed,705,Los Angeles,False,tablet,google_ads,0
+CUST0133,Micah Dixon,male,micah.dixon@example.com,(312) 555-0144,2019-04-20,34,5100.0,employed,698,Chicago,False,mobile,organic,0
+CUST0134,Cecilia Ramos,female,cecilia.ramos@example.com,(713) 555-0177,2020-09-03,24,1800.0,student,622,Houston,True,desktop,referral_friend,1
+CUST0135,Emmeline Reyes,female,emmeline.reyes@example.com,(212) 555-0100,2018-12-16,41,8700.0,employed,718,New York,False,tablet,instagram,0
+CUST0136,Kai Burns,male,kai.burns@example.com,(305) 555-0133,2021-06-29,37,6800.0,employed,705,Miami,False,mobile,facebook,0
+CUST0137,Juliette Gordon,female,juliette.gordon@example.com,(213) 555-0166,2019-09-12,50,11300.0,retired,730,Los Angeles,True,desktop,google_ads,0
+CUST0138,Elliott Shaw,male,elliott.shaw@example.com,(312) 555-0199,2020-02-25,32,4700.0,employed,692,Chicago,False,tablet,organic,0
+CUST0139,June Holmes,female,june.holmes@example.com,(713) 555-0122,2018-05-08,55,12400.0,retired,740,Houston,False,mobile,referral_friend,0
+CUST0140,Rhett Rice,male,rhett.rice@example.com,(212) 555-0155,2021-08-21,27,2700.0,student,633,New York,True,desktop,instagram,1
+CUST0141,Daisy Robertson,female,daisy.robertson@example.com,(305) 555-0188,2019-11-04,38,7100.0,employed,712,Miami,False,tablet,facebook,0
+CUST0142,Griffin Hunt,male,griffin.hunt@example.com,(213) 555-0111,2020-04-17,47,10400.0,self-employed,705,Los Angeles,False,mobile,google_ads,0
+CUST0143,Winter Black,female,winter.black@example.com,(312) 555-0144,2018-09-30,33,4900.0,employed,695,Chicago,True,desktop,organic,0
+CUST0144,Luca Daniels,male,luca.daniels@example.com,(713) 555-0177,2021-03-13,25,1900.0,student,625,Houston,False,tablet,referral_friend,1
+CUST0145,Maeve Palmer,female,maeve.palmer@example.com,(212) 555-0100,2019-06-26,42,8600.0,employed,715,New York,False,mobile,instagram,0
+CUST0146,Brantley Mills,male,brantley.mills@example.com,(305) 555-0133,2020-10-09,36,6300.0,employed,703,Miami,True,desktop,facebook,0
+CUST0147,Lennon Nichols,female,lennon.nichols@example.com,(213) 555-0166,2018-01-22,49,10800.0,self-employed,700,Los Angeles,False,tablet,google_ads,0
+CUST0148,Beckett Grant,male,beckett.grant@example.com,(312) 555-0199,2021-07-05,30,3900.0,employed,685,Chicago,False,mobile,organic,0
+CUST0149,Talia Knight,female,talia.knight@example.com,(713) 555-0122,2019-10-18,52,11700.0,retired,735,Houston,True,desktop,referral_friend,0
+CUST0150,Enzo Ferguson,male,enzo.ferguson@example.com,(212) 555-0155,2020-03-31,28,3300.0,student,635,New York,False,tablet,instagram,1
+CUST0151,Amara Rose,female,amara.rose@example.com,(305) 555-0188,2018-07-14,39,7400.0,employed,708,Miami,False,mobile,facebook,0
+CUST0152,Rhys Stone,male,rhys.stone@example.com,(213) 555-0111,2021-01-27,44,9200.0,self-employed,715,Los Angeles,True,desktop,google_ads,0
+CUST0153,Zara Lane,female,zara.lane@example.com,(312) 555-0144,2019-04-10,30,3700.0,employed,680,Chicago,False,tablet,organic,0
+CUST0154,Kian Fox,male,kian.fox@example.com,(713) 555-0177,2020-09-23,25,1850.0,student,618,Houston,False,mobile,referral_friend,1
+CUST0155,Esme Cole,female,esme.cole@example.com,(212) 555-0100,2018-12-06,48,10600.0,employed,722,New York,True,desktop,instagram,0
+CUST0156,Finnley Hayes,male,finnley.hayes@example.com,(305) 555-0133,2021-06-19,35,5700.0,employed,700,Miami,False,tablet,facebook,0
+CUST0157,Anika Byrd,female,anika.byrd@example.com,(213) 555-0166,2019-09-02,41,8300.0,self-employed,712,Los Angeles,False,mobile,google_ads,0
+CUST0158,Dax Reid,male,dax.reid@example.com,(312) 555-0199,2020-02-15,29,3200.0,employed,675,Chicago,True,desktop,organic,0
+CUST0159,Leia Hart,female,leia.hart@example.com,(713) 555-0122,2018-05-28,52,11900.0,retired,740,Houston,False,tablet,referral_friend,0
+CUST0160,Zane Day,male,zane.day@example.com,(212) 555-0155,2021-08-11,26,2250.0,student,628,New York,False,mobile,instagram,1
+CUST0161,Calliope Moon,female,calliope.moon@example.com,(305) 555-0188,2019-11-24,37,6600.0,employed,705,Miami,True,desktop,facebook,0
+CUST0162,Otto Vaughn,male,otto.vaughn@example.com,(213) 555-0111,2020-04-07,45,9700.0,self-employed,708,Los Angeles,False,tablet,google_ads,0
+CUST0163,Lennox Rhodes,male,lennox.rhodes@example.com,(312) 555-0144,2018-09-20,33,4950.0,employed,690,Chicago,False,mobile,organic,0
+CUST0164,Maisie Blair,female,maisie.blair@example.com,(713) 555-0177,2021-03-03,24,1750.0,student,622,Houston,True,desktop,referral_friend,1
+CUST0165,Alaric Kane,male,alaric.kane@example.com,(212) 555-0100,2019-06-16,40,8000.0,employed,715,New York,False,tablet,instagram,0
+CUST0166,Sylvie Finch,female,sylvie.finch@example.com,(305) 555-0133,2020-10-29,36,6200.0,employed,703,Miami,False,mobile,facebook,0
+CUST0167,Cyrus Frost,male,cyrus.frost@example.com,(213) 555-0166,2018-01-12,47,10300.0,self-employed,700,Los Angeles,True,desktop,google_ads,0
+CUST0168,Elodie Stark,female,elodie.stark@example.com,(312) 555-0199,2021-07-25,31,4150.0,employed,685,Chicago,False,tablet,organic,0
+CUST0169,Orson Hyde,male,orson.hyde@example.com,(713) 555-0122,2019-10-08,54,12200.0,retired,738,Houston,False,mobile,referral_friend,0
+CUST0170,Maris Wolfe,female,maris.wolfe@example.com,(212) 555-0155,2020-03-21,28,3050.0,student,632,New York,True,desktop,instagram,1
+CUST0171,Cassia Rowe,female,cassia.rowe@example.com,(305) 555-0188,2018-06-04,39,7500.0,employed,712,Miami,False,tablet,facebook,0
+CUST0172,Evander Sloan,male,evander.sloan@example.com,(213) 555-0111,2021-09-17,46,10000.0,self-employed,705,Los Angeles,False,mobile,google_ads,0
+CUST0173,Thalia Joyce,female,thalia.joyce@example.com,(312) 555-0144,2019-12-30,34,5250.0,employed,698,Chicago,True,desktop,organic,0
+CUST0174,Riggs Tate,male,riggs.tate@example.com,(713) 555-0177,2020-05-13,25,1950.0,student,625,Houston,False,tablet,referral_friend,1
+CUST0175,Isolde Dean,female,isolde.dean@example.com,(212) 555-0100,2018-08-26,43,8900.0,employed,718,New York,False,mobile,instagram,0
+CUST0176,Ewan Holloway,male,ewan.holloway@example.com,(305) 555-0133,2021-02-09,37,6750.0,employed,705,Miami,True,desktop,facebook,0
+CUST0177,Serena Kirby,female,serena.kirby@example.com,(213) 555-0166,2019-05-22,49,11000.0,self-employed,703,Los Angeles,False,tablet,google_ads,0
+CUST0178,Dorian Chase,male,dorian.chase@example.com,(312) 555-0199,2020-08-05,32,4550.0,employed,692,Chicago,False,mobile,organic,0
+CUST0179,Octavia Lynn,female,octavia.lynn@example.com,(713) 555-0122,2018-11-18,56,12400.0,retired,742,Houston,True,desktop,referral_friend,0
+CUST0180,Roman Drake,male,roman.drake@example.com,(212) 555-0155,2021-04-01,27,2650.0,student,630,New York,False,tablet,instagram,1
+CUST0181,Elara Quinn,female,elara.quinn@example.com,(305) 555-0188,2019-07-14,40,7900.0,employed,715,Miami,False,mobile,facebook,0
+CUST0182,Leif Ramsey,male,leif.ramsey@example.com,(213) 555-0111,2020-12-27,45,9800.0,self-employed,705,Los Angeles,True,desktop,google_ads,0
+CUST0183,Imogen Shepard,female,imogen.shepard@example.com,(312) 555-0144,2018-03-10,33,5050.0,employed,695,Chicago,False,tablet,organic,0
+CUST0184,Alistair York,male,alistair.york@example.com,(713) 555-0177,2021-06-23,29,3450.0,student,635,Houston,False,mobile,referral_friend,0
+CUST0185,Ophelia Vaughn,female,ophelia.vaughn@example.com,(212) 555-0100,2019-09-06,42,8600.0,employed,715,New York,False,desktop,instagram,0
+CUST0186,Cormac Hale,male,cormac.hale@example.com,(305) 555-0133,2020-02-19,36,6350.0,employed,705,Miami,True,tablet,facebook,0
+CUST0187,Philippa Morse,female,philippa.morse@example.com,(213) 555-0166,2018-05-02,48,10700.0,self-employed,703,Los Angeles,False,mobile,google_ads,0
+CUST0188,Bevan Clark,male,bevan.clark@example.com,(312) 555-0199,2021-08-15,31,4250.0,employed,688,Chicago,False,desktop,organic,0
+CUST0189,Minerva Snow,female,minerva.snow@example.com,(713) 555-0122,2019-11-28,53,12000.0,retired,738,Houston,True,tablet,referral_friend,0
+CUST0190,Orion Priestley,male,orion.priestley@example.com,(212) 555-0155,2020-04-11,26,2350.0,student,628,New York,False,mobile,instagram,1
+CUST0191,Thea Sterling,female,thea.sterling@example.com,(305) 555-0188,2018-07-24,39,7550.0,employed,715,Miami,False,desktop,facebook,0
+CUST0192,Magnus Whitlock,male,magnus.whitlock@example.com,(213) 555-0111,2021-01-07,46,10200.0,self-employed,708,Los Angeles,True,tablet,google_ads,0
+CUST0193,Elowen Mercer,female,elowen.mercer@example.com,(312) 555-0144,2019-04-20,34,5150.0,employed,698,Chicago,False,mobile,organic,0
+CUST0194,Peregrine Slate,male,peregrine.slate@example.com,(713) 555-0177,2020-09-03,24,1825.0,student,620,Houston,False,desktop,referral_friend,1
+CUST0195,Isabeau Ainsley,female,isabeau.ainsley@example.com,(212) 555-0100,2018-12-16,41,8800.0,employed,718,New York,True,tablet,instagram,0
+CUST0196,Caspian Rayne,male,caspian.rayne@example.com,(305) 555-0133,2021-06-29,37,6850.0,employed,705,Miami,False,mobile,facebook,0
+CUST0197,Persephone Alden,female,persephone.alden@example.com,(213) 555-0166,2019-09-12,50,11400.0,retired,733,Los Angeles,False,desktop,google_ads,0
+CUST0198,Barnaby Creed,male,barnaby.creed@example.com,(312) 555-0199,2020-02-25,32,4650.0,employed,693,Chicago,True,mobile,organic,0
+CUST0199,Rosalind Thorne,female,rosalind.thorne@example.com,(713) 555-0122,2018-05-08,55,12500.0,retired,742,Houston,False,tablet,referral_friend,0
+CUST0200,Lysander Vale,male,lysander.vale@example.com,(212) 555-0155,2021-08-21,27,2725.0,student,632,New York,False,desktop,instagram,1
+CUST0201,Octavius Blackwood,male,octavius.blackwood@example.com,(305) 555-0188,2018-07-14,39,7450.0,employed,710,Miami,False,mobile,facebook,0
+CUST0202,Seraphina Whitmore,female,seraphina.whitmore@example.com,(213) 555-0111,2021-01-27,44,9250.0,self-employed,715,Los Angeles,True,desktop,google_ads,0
+CUST0203,Lucian Fairchild,male,lucian.fairchild@example.com,(312) 555-0144,2019-04-10,30,3750.0,employed,682,Chicago,False,tablet,organic,0
+CUST0204,Isolde Hightower,female,isolde.hightower@example.com,(713) 555-0177,2020-09-23,25,1875.0,student,618,Houston,False,mobile,referral_friend,1
+CUST0205,Percival Sterling,male,percival.sterling@example.com,(212) 555-0100,2018-12-06,48,10750.0,employed,725,New York,True,desktop,instagram,0
+CUST0206,Rowena Ashford,female,rowena.ashford@example.com,(305) 555-0133,2021-06-19,35,5750.0,employed,702,Miami,False,tablet,facebook,0
+CUST0207,Cassius Lockwood,male,cassius.lockwood@example.com,(213) 555-0166,2019-09-02,41,8350.0,self-employed,712,Los Angeles,False,mobile,google_ads,0
+CUST0208,Elspeth Kingsley,female,elspeth.kingsley@example.com,(312) 555-0199,2020-02-15,29,3250.0,employed,678,Chicago,True,desktop,organic,0
+CUST0209,Alistair Waverly,male,alistair.waverly@example.com,(713) 555-0122,2018-05-28,52,12050.0,retired,740,Houston,False,tablet,referral_friend,0
+CUST0210,Guinevere Beaumont,female,guinevere.beaumont@example.com,(212) 555-0155,2021-08-11,26,2275.0,student,630,New York,False,mobile,instagram,1
+CUST0211,Benedict Worthington,male,benedict.worthington@example.com,(305) 555-0188,2019-11-24,37,6650.0,employed,705,Miami,True,desktop,facebook,0
+CUST0212,Leonora Pembroke,female,leonora.pembroke@example.com,(213) 555-0111,2020-04-07,45,9750.0,self-employed,708,Los Angeles,False,tablet,google_ads,0
+CUST0213,Thaddeus Harrington,male,thaddeus.harrington@example.com,(312) 555-0144,2018-09-20,33,4975.0,employed,692,Chicago,False,mobile,organic,0
+CUST0214,Henrietta Montague,female,henrietta.montague@example.com,(713) 555-0177,2021-03-03,24,1775.0,student,622,Houston,True,desktop,referral_friend,1
+CUST0215,Archibald Winthrop,male,archibald.winthrop@example.com,(212) 555-0100,2019-06-16,40,8050.0,employed,718,New York,False,tablet,instagram,0
+CUST0216,Beatrix Sinclair,female,beatrix.sinclair@example.com,(305) 555-0133,2020-10-29,36,6250.0,employed,703,Miami,False,mobile,facebook,0
+CUST0217,Reginald Ashworth,male,reginald.ashworth@example.com,(213) 555-0166,2018-01-12,47,10350.0,self-employed,700,Los Angeles,True,desktop,google_ads,0
+CUST0218,Ophelia Chadwick,female,ophelia.chadwick@example.com,(312) 555-0199,2021-07-25,31,4175.0,employed,685,Chicago,False,tablet,organic,0
+CUST0219,Phineas Radcliffe,male,phineas.radcliffe@example.com,(713) 555-0122,2019-10-08,54,12250.0,retired,738,Houston,False,mobile,referral_friend,0
+CUST0220,Imogen Fairfax,female,imogen.fairfax@example.com,(212) 555-0155,2020-03-21,28,3075.0,student,635,New York,True,desktop,instagram,1
+CUST0221,Augustus Langley,male,augustus.langley@example.com,(305) 555-0188,2018-06-04,39,7550.0,employed,712,Miami,False,tablet,facebook,0
+CUST0222,Penelope Wexford,female,penelope.wexford@example.com,(213) 555-0111,2021-09-17,46,10050.0,self-employed,705,Los Angeles,False,mobile,google_ads,0
+CUST0223,Quentin Ellington,male,quentin.ellington@example.com,(312) 555-0144,2019-12-30,34,5225.0,employed,698,Chicago,True,desktop,organic,0
+CUST0224,Rosamund Ainsworth,female,rosamund.ainsworth@example.com,(713) 555-0177,2020-05-13,25,1975.0,student,625,Houston,False,tablet,referral_friend,1
+CUST0225,Bartholomew Huxley,male,bartholomew.huxley@example.com,(212) 555-0100,2018-08-26,43,8950.0,employed,718,New York,False,mobile,instagram,0
+CUST0226,Genevieve Pemberton,female,genevieve.pemberton@example.com,(305) 555-0133,2021-02-09,37,6775.0,employed,705,Miami,True,desktop,facebook,0
+CUST0227,Horace Rutherford,male,horace.rutherford@example.com,(213) 555-0166,2019-05-22,49,11050.0,self-employed,703,Los Angeles,False,tablet,google_ads,0
+CUST0228,Lavinia Stanhope,female,lavinia.stanhope@example.com,(312) 555-0199,2020-08-05,32,4575.0,employed,692,Chicago,False,mobile,organic,0
+CUST0229,Cornelius Whitaker,male,cornelius.whitaker@example.com,(713) 555-0122,2018-11-18,56,12450.0,retired,742,Houston,True,desktop,referral_friend,0
+CUST0230,Henrietta Forsythe,female,henrietta.forsythe@example.com,(212) 555-0155,2021-04-01,27,2675.0,student,630,New York,False,tablet,instagram,1
+CUST0231,Algernon Barrington,male,algernon.barrington@example.com,(305) 555-0188,2019-07-14,40,7950.0,employed,715,Miami,False,mobile,facebook,0
+CUST0232,Georgiana Chatsworth,female,georgiana.chatsworth@example.com,(213) 555-0111,2020-12-27,45,9850.0,self-employed,705,Los Angeles,True,desktop,google_ads,0
+CUST0233,Rupert Kingsford,male,rupert.kingsford@example.com,(312) 555-0144,2018-03-10,33,5075.0,employed,695,Chicago,False,tablet,organic,0
+CUST0234,Wilhelmina Haverhill,female,wilhelmina.haverhill@example.com,(713) 555-0177,2021-06-23,29,3475.0,student,635,Houston,False,mobile,referral_friend,0
+CUST0235,Archibald Wimbleton,male,archibald.wimbleton@example.com,(212) 555-0100,2019-09-06,42,8650.0,employed,715,New York,False,desktop,instagram,0
+CUST0236,Prudence Ashbury,female,prudence.ashbury@example.com,(305) 555-0133,2020-02-19,36,6375.0,employed,705,Miami,True,tablet,facebook,0
+CUST0237,Barnaby Wrotham,male,barnaby.wrotham@example.com,(213) 555-0166,2018-05-02,48,10750.0,self-employed,703,Los Angeles,False,mobile,google_ads,0
+CUST0238,Millicent Thorneby,female,millicent.thorneby@example.com,(312) 555-0199,2021-08-15,31,4275.0,employed,688,Chicago,False,desktop,organic,0
+CUST0239,Godfrey Litchfield,male,godfrey.litchfield@example.com,(713) 555-0122,2019-11-28,53,12050.0,retired,738,Houston,True,tablet,referral_friend,0
+CUST0240,Clementine Worplesdon,female,clementine.worplesdon@example.com,(212) 555-0155,2020-04-11,26,2375.0,student,628,New York,False,mobile,instagram,1
+CUST0241,Leopold Cholmondeley,male,leopold.cholmondeley@example.com,(305) 555-0188,2018-07-24,39,7575.0,employed,715,Miami,False,desktop,facebook,0
+CUST0242,Augusta Featherington,female,augusta.featherington@example.com,(213) 555-0111,2021-01-07,46,10250.0,self-employed,708,Los Angeles,True,tablet,google_ads,0
+CUST0243,Crispin Winterbourne,male,crispin.winterbourne@example.com,(312) 555-0144,2019-04-20,34,5175.0,employed,698,Chicago,False,mobile,organic,0
+CUST0244,Florentina Honeywell,female,florentina.honeywell@example.com,(713) 555-0177,2020-09-03,24,1825.0,student,620,Houston,False,desktop,referral_friend,1
+CUST0245,Digby Ponsonby,male,digby.ponsonby@example.com,(212) 555-0100,2018-12-16,41,8850.0,employed,718,New York,True,tablet,instagram,0
+CUST0246,Seraphina Danvers,female,seraphina.danvers@example.com,(305) 555-0133,2021-06-29,37,6875.0,employed,705,Miami,False,mobile,facebook,0
+CUST0247,Montgomery Allerton,male,montgomery.allerton@example.com,(213) 555-0166,2019-09-12,50,11450.0,retired,733,Los Angeles,False,desktop,google_ads,0
+CUST0248,Honoria Blackwood,female,honoria.blackwood@example.com,(312) 555-0199,2020-02-25,32,4675.0,employed,693,Chicago,True,mobile,organic,0
+CUST0249,Percival Fortescue,male,percival.fortescue@example.com,(713) 555-0122,2018-05-08,55,12550.0,retired,742,Houston,False,tablet,referral_friend,0
+CUST0250,Georgina Rutherford,female,georgina.rutherford@example.com,(212) 555-0155,2021-08-21,27,2725.0,student,632,New York,False,desktop,instagram,1
+CUST0251,Archibald Winfield,male,archibald.winfield@example.com,(305) 555-0188,2018-07-14,42,8100.0,employed,715,Miami,False,mobile,facebook,0
+CUST0252,Beatrice Worthington,female,beatrice.worthington@example.com,(213) 555-0111,2021-01-27,47,10800.0,self-employed,725,Los Angeles,True,desktop,google_ads,0
+CUST0253,Cedric Ashworth,male,cedric.ashworth@example.com,(312) 555-0144,2019-04-10,33,5100.0,employed,695,Chicago,False,tablet,organic,0
+CUST0254,Dorothea Fairchild,female,dorothea.fairchild@example.com,(713) 555-0177,2020-09-23,28,3100.0,student,635,Houston,False,mobile,referral_friend,1
+CUST0255,Egbert Harrington,male,egbert.harrington@example.com,(212) 555-0100,2018-12-06,51,12200.0,retired,745,New York,True,desktop,instagram,0
+CUST0256,Florence Kingsley,female,florence.kingsley@example.com,(305) 555-0133,2021-06-19,38,6800.0,employed,715,Miami,False,tablet,facebook,0
+CUST0257,Godfrey Montague,male,godfrey.montague@example.com,(213) 555-0166,2019-09-02,44,9400.0,self-employed,718,Los Angeles,False,mobile,google_ads,0
+CUST0258,Henrietta Radcliffe,female,henrietta.radcliffe@example.com,(312) 555-0199,2020-02-15,32,4600.0,employed,695,Chicago,True,desktop,organic,0
+CUST0259,Ignatius Whitmore,male,ignatius.whitmore@example.com,(713) 555-0122,2018-05-28,55,12700.0,retired,750,Houston,False,tablet,referral_friend,0
+CUST0260,Josephine Wexford,female,josephine.wexford@example.com,(212) 555-0155,2021-08-11,29,3400.0,student,645,New York,False,mobile,instagram,1
+CUST0261,Leopold Ellington,male,leopold.ellington@example.com,(305) 555-0188,2019-11-24,40,8000.0,employed,720,Miami,True,desktop,facebook,0
+CUST0262,Matilda Fairfax,female,matilda.fairfax@example.com,(213) 555-0111,2020-04-07,48,11000.0,self-employed,715,Los Angeles,False,tablet,google_ads,0
+CUST0263,Nathaniel Hightower,male,nathaniel.hightower@example.com,(312) 555-0144,2018-09-20,36,6300.0,employed,705,Chicago,False,mobile,organic,0
+CUST0264,Ophelia Langley,female,ophelia.langley@example.com,(713) 555-0177,2021-03-03,27,2800.0,student,640,Houston,True,desktop,referral_friend,1
+CUST0265,Percival Sinclair,male,percival.sinclair@example.com,(212) 555-0100,2019-06-16,43,9000.0,employed,725,New York,False,tablet,instagram,0
+CUST0266,Quentin Thorne,male,quentin.thorne@example.com,(305) 555-0133,2020-10-29,39,7500.0,employed,715,Miami,False,mobile,facebook,0
+CUST0267,Rosamund Waverly,female,rosamund.waverly@example.com,(213) 555-0166,2018-01-12,50,11500.0,retired,735,Los Angeles,True,desktop,google_ads,0
+CUST0268,Sebastian Chadwick,male,sebastian.chadwick@example.com,(312) 555-0199,2021-07-25,34,5300.0,employed,705,Chicago,False,tablet,organic,0
+CUST0269,Theodora Pemberton,female,theodora.pemberton@example.com,(713) 555-0122,2019-10-08,57,12900.0,retired,755,Houston,False,mobile,referral_friend,0
+CUST0270,Uriah Stanhope,male,uriah.stanhope@example.com,(212) 555-0155,2020-03-21,31,4300.0,student,655,New York,True,desktop,instagram,1
+CUST0271,Victoria Whitaker,female,victoria.whitaker@example.com,(305) 555-0188,2018-06-04,42,8500.0,employed,725,Miami,False,tablet,facebook,0
+CUST0272,Wilbur Forsythe,male,wilbur.forsythe@example.com,(213) 555-0111,2021-09-17,49,11200.0,self-employed,720,Los Angeles,False,mobile,google_ads,0
+CUST0273,Xanthe Barrington,female,xanthe.barrington@example.com,(312) 555-0144,2019-12-30,37,6700.0,employed,710,Chicago,True,desktop,organic,0
+CUST0274,Yves Chatsworth,male,yves.chatsworth@example.com,(713) 555-0177,2020-05-13,26,2900.0,student,645,Houston,False,tablet,referral_friend,1
+CUST0275,Zinnia Kingsford,female,zinnia.kingsford@example.com,(212) 555-0100,2018-08-26,45,9800.0,employed,730,New York,False,mobile,instagram,0
+CUST0276,Algernon Haverhill,male,algernon.haverhill@example.com,(305) 555-0133,2021-02-09,40,8200.0,self-employed,725,Miami,True,desktop,facebook,0
+CUST0277,Bernadette Wimbleton,female,bernadette.wimbleton@example.com,(213) 555-0166,2019-05-22,52,12000.0,retired,745,Los Angeles,False,tablet,google_ads,0
+CUST0278,Crispin Ashbury,male,crispin.ashbury@example.com,(312) 555-0199,2020-08-05,35,5900.0,employed,715,Chicago,False,mobile,organic,0
+CUST0279,Delilah Wrotham,female,delilah.wrotham@example.com,(713) 555-0122,2018-11-18,58,13200.0,retired,760,Houston,True,desktop,referral_friend,0
+CUST0280,Eustace Thorneby,male,eustace.thorneby@example.com,(212) 555-0155,2021-04-01,30,4100.0,student,660,New York,False,tablet,instagram,1
+CUST0281,Felicity Litchfield,female,felicity.litchfield@example.com,(305) 555-0188,2019-07-14,43,9200.0,employed,730,Miami,False,mobile,facebook,0
+CUST0282,Gideon Worplesdon,male,gideon.worplesdon@example.com,(213) 555-0111,2020-12-27,50,11800.0,self-employed,725,Los Angeles,True,desktop,google_ads,0
+CUST0283,Honor Cholmondeley,female,honor.cholmondeley@example.com,(312) 555-0144,2018-03-10,38,7100.0,employed,715,Chicago,False,tablet,organic,0
+CUST0284,Inigo Featherington,male,inigo.featherington@example.com,(713) 555-0177,2021-06-23,29,3600.0,student,670,Houston,False,mobile,referral_friend,0
+CUST0285,Jemima Winterbourne,female,jemima.winterbourne@example.com,(212) 555-0100,2019-09-06,46,10500.0,employed,735,New York,False,desktop,instagram,0
+CUST0286,Kaspar Honeywell,male,kaspar.honeywell@example.com,(305) 555-0133,2020-02-19,41,8700.0,self-employed,730,Miami,True,tablet,facebook,0
+CUST0287,Leonora Ponsonby,female,leonora.ponsonby@example.com,(213) 555-0166,2018-05-02,54,12500.0,retired,750,Los Angeles,False,mobile,google_ads,0
+CUST0288,Marmaduke Danvers,male,marmaduke.danvers@example.com,(312) 555-0199,2021-08-15,37,6900.0,employed,720,Chicago,False,desktop,organic,0
+CUST0289,Nerissa Allerton,female,nerissa.allerton@example.com,(713) 555-0122,2019-11-28,60,13500.0,retired,765,Houston,True,tablet,referral_friend,0
+CUST0290,Orson Blackwood,male,orson.blackwood@example.com,(212) 555-0155,2020-04-11,33,5400.0,student,680,New York,False,mobile,instagram,1
+CUST0291,Patience Worthington,female,patience.worthington@example.com,(305) 555-0188,2018-07-24,45,9900.0,employed,740,Miami,False,desktop,facebook,0
+CUST0292,Quentin Ashworth,male,quentin.ashworth@example.com,(213) 555-0111,2021-01-07,51,12300.0,self-employed,735,Los Angeles,True,tablet,google_ads,0
+CUST0293,Romola Fairchild,female,romola.fairchild@example.com,(312) 555-0144,2019-04-20,40,8300.0,employed,725,Chicago,False,mobile,organic,0
+CUST0294,Sylvester Harrington,male,sylvester.harrington@example.com,(713) 555-0177,2020-09-03,31,4400.0,student,690,Houston,False,desktop,referral_friend,1
+CUST0295,Thomasina Kingsley,female,thomasina.kingsley@example.com,(212) 555-0100,2018-12-16,48,11300.0,employed,745,New York,True,tablet,instagram,0
+CUST0296,Uriah Montague,male,uriah.montague@example.com,(305) 555-0133,2021-06-29,42,8900.0,self-employed,740,Miami,False,mobile,facebook,0
+CUST0297,Verity Radcliffe,female,verity.radcliffe@example.com,(213) 555-0166,2019-09-12,56,13000.0,retired,755,Los Angeles,False,desktop,google_ads,0
+CUST0298,Wilfred Waverly,male,wilfred.waverly@example.com,(312) 555-0199,2020-02-25,39,7700.0,employed,735,Chicago,True,mobile,organic,0
+CUST0299,Xenia Chadwick,female,xenia.chadwick@example.com,(713) 555-0122,2018-05-08,62,13800.0,retired,770,Houston,False,tablet,referral_friend,0
+CUST0300,Yves Pemberton,male,yves.pemberton@example.com,(212) 555-0155,2021-08-21,36,6500.0,student,700,New York,False,desktop,instagram,1
+CUST0301,Zelda Stanhope,female,zelda.stanhope@example.com,(305) 555-0188,2018-07-14,43,9250.0,employed,735,Miami,False,mobile,facebook,0
+CUST0302,Ambrose Whitaker,male,ambrose.whitaker@example.com,(213) 555-0111,2021-01-27,48,11200.0,self-employed,740,Los Angeles,True,desktop,google_ads,0
+CUST0303,Blythe Forsythe,female,blythe.forsythe@example.com,(312) 555-0144,2019-04-10,34,5600.0,employed,710,Chicago,False,tablet,organic,0
+CUST0304,Crispin Barrington,male,crispin.barrington@example.com,(713) 555-0177,2020-09-23,29,3800.0,student,655,Houston,False,mobile,referral_friend,1
+CUST0305,Daphne Chatsworth,female,daphne.chatsworth@example.com,(212) 555-0100,2018-12-06,52,12800.0,retired,760,New York,True,desktop,instagram,0
+CUST0306,Egbert Kingsford,male,egbert.kingsford@example.com,(305) 555-0133,2021-06-19,39,7850.0,employed,740,Miami,False,tablet,facebook,0
+CUST0307,Flossie Haverhill,female,flossie.haverhill@example.com,(213) 555-0166,2019-09-02,45,10200.0,self-employed,735,Los Angeles,False,mobile,google_ads,0
+CUST0308,Gideon Wimbleton,male,gideon.wimbleton@example.com,(312) 555-0199,2020-02-15,33,5400.0,employed,715,Chicago,True,desktop,organic,0
+CUST0309,Honor Ashbury,female,honor.ashbury@example.com,(713) 555-0122,2018-05-28,57,13400.0,retired,770,Houston,False,tablet,referral_friend,0
+CUST0310,Ignatius Wrotham,male,ignatius.wrotham@example.com,(212) 555-0155,2021-08-11,30,4200.0,student,675,New York,False,mobile,instagram,1
+CUST0311,Jemima Thorneby,female,jemima.thorneby@example.com,(305) 555-0188,2019-11-24,41,8900.0,employed,745,Miami,True,desktop,facebook,0
+CUST0312,Knox Litchfield,male,knox.litchfield@example.com,(213) 555-0111,2020-04-07,49,11600.0,self-employed,740,Los Angeles,False,tablet,google_ads,0
+CUST0313,Letitia Worplesdon,female,letitia.worplesdon@example.com,(312) 555-0144,2018-09-20,37,7100.0,employed,730,Chicago,False,mobile,organic,0
+CUST0314,Marmaduke Cholmondeley,male,marmaduke.cholmondeley@example.com,(713) 555-0177,2021-03-03,28,3900.0,student,680,Houston,True,desktop,referral_friend,1
+CUST0315,Nerissa Featherington,female,nerissa.featherington@example.com,(212) 555-0100,2019-06-16,44,9800.0,employed,750,New York,False,tablet,instagram,0
+CUST0316,Orson Winterbourne,male,orson.winterbourne@example.com,(305) 555-0133,2020-10-29,40,8400.0,employed,745,Miami,False,mobile,facebook,0
+CUST0317,Patience Honeywell,female,patience.honeywell@example.com,(213) 555-0166,2018-01-12,53,12600.0,retired,765,Los Angeles,True,desktop,google_ads,0
+CUST0318,Quentin Ponsonby,male,quentin.ponsonby@example.com,(312) 555-0199,2021-07-25,35,6200.0,employed,735,Chicago,False,tablet,organic,0
+CUST0319,Romola Danvers,female,romola.danvers@example.com,(713) 555-0122,2019-10-08,59,13700.0,retired,775,Houston,False,mobile,referral_friend,0
+CUST0320,Sylvester Allerton,male,sylvester.allerton@example.com,(212) 555-0155,2020-03-21,32,4800.0,student,690,New York,True,desktop,instagram,1
+CUST0321,Thomasin Blackwood,female,thomasin.blackwood@example.com,(305) 555-0188,2018-06-04,46,10700.0,employed,755,Miami,False,tablet,facebook,0
+CUST0322,Uriah Worthington,male,uriah.worthington@example.com,(213) 555-0111,2021-09-17,51,12400.0,self-employed,750,Los Angeles,False,mobile,google_ads,0
+CUST0323,Verity Ashworth,female,verity.ashworth@example.com,(312) 555-0144,2019-12-30,38,7500.0,employed,740,Chicago,True,desktop,organic,0
+CUST0324,Wilfred Fairchild,male,wilfred.fairchild@example.com,(713) 555-0177,2020-05-13,29,4000.0,student,695,Houston,False,tablet,referral_friend,1
+CUST0325,Xena Harrington,female,xena.harrington@example.com,(212) 555-0100,2018-08-26,47,11000.0,employed,760,New York,False,mobile,instagram,0
+CUST0326,Yves Kingsley,male,yves.kingsley@example.com,(305) 555-0133,2021-02-09,42,9200.0,self-employed,755,Miami,True,desktop,facebook,0
+CUST0327,Zebedee Montague,male,zebedee.montague@example.com,(213) 555-0166,2019-05-22,55,13200.0,retired,780,Los Angeles,False,tablet,google_ads,0
+CUST0328,Ada Radcliffe,female,ada.radcliffe@example.com,(312) 555-0199,2020-08-05,36,6800.0,employed,745,Chicago,False,mobile,organic,0
+CUST0329,Barnaby Waverly,male,barnaby.waverly@example.com,(713) 555-0122,2018-11-18,61,14100.0,retired,785,Houston,True,desktop,referral_friend,0
+CUST0330,Cecily Chadwick,female,cecily.chadwick@example.com,(212) 555-0155,2021-04-01,33,5500.0,student,705,New York,False,tablet,instagram,1
+CUST0331,Dunstan Pemberton,male,dunstan.pemberton@example.com,(305) 555-0188,2019-07-14,44,10100.0,employed,765,Miami,False,mobile,facebook,0
+CUST0332,Elspeth Stanhope,female,elspeth.stanhope@example.com,(213) 555-0111,2020-12-27,50,12100.0,self-employed,760,Los Angeles,True,desktop,google_ads,0
+CUST0333,Fitzroy Whitaker,male,fitzroy.whitaker@example.com,(312) 555-0144,2018-03-10,39,7900.0,employed,750,Chicago,False,tablet,organic,0
+CUST0334,Georgiana Forsythe,female,georgiana.forsythe@example.com,(713) 555-0177,2021-06-23,30,4300.0,student,710,Houston,False,mobile,referral_friend,0
+CUST0335,Humphrey Barrington,male,humphrey.barrington@example.com,(212) 555-0100,2019-09-06,45,10400.0,employed,770,New York,False,desktop,instagram,0
+CUST0336,Isolde Chatsworth,female,isolde.chatsworth@example.com,(305) 555-0133,2020-02-19,40,8600.0,self-employed,765,Miami,True,tablet,facebook,0
+CUST0337,Jeremiah Kingsford,male,jeremiah.kingsford@example.com,(213) 555-0166,2018-05-02,53,12900.0,retired,785,Los Angeles,False,mobile,google_ads,0
+CUST0338,Keziah Haverhill,female,keziah.haverhill@example.com,(312) 555-0199,2021-08-15,37,7300.0,employed,755,Chicago,False,desktop,organic,0
+CUST0339,Laurence Wimbleton,male,laurence.wimbleton@example.com,(713) 555-0122,2019-11-28,58,13900.0,retired,790,Houston,True,tablet,referral_friend,0
+CUST0340,Millicent Ashbury,female,millicent.ashbury@example.com,(212) 555-0155,2020-04-11,34,5900.0,student,720,New York,False,mobile,instagram,1
+CUST0341,Nathaniel Wrotham,male,nathaniel.wrotham@example.com,(305) 555-0188,2018-07-24,46,10900.0,employed,775,Miami,False,desktop,facebook,0
+CUST0342,Octavia Thorneby,female,octavia.thorneby@example.com,(213) 555-0111,2021-01-07,52,12700.0,self-employed,770,Los Angeles,True,tablet,google_ads,0
+CUST0343,Peregrine Litchfield,male,peregrine.litchfield@example.com,(312) 555-0144,2019-04-20,41,9100.0,employed,765,Chicago,False,mobile,organic,0
+CUST0344,Quinn Worplesdon,female,quinn.worplesdon@example.com,(713) 555-0177,2020-09-03,31,4600.0,student,730,Houston,False,desktop,referral_friend,1
+CUST0345,Rufus Cholmondeley,male,rufus.cholmondeley@example.com,(212) 555-0100,2018-12-16,47,11300.0,employed,780,New York,True,tablet,instagram,0
+CUST0346,Sybilla Featherington,female,sybilla.featherington@example.com,(305) 555-0133,2021-06-29,43,9700.0,self-employed,775,Miami,False,mobile,facebook,0
+CUST0347,Theobald Winterbourne,male,theobald.winterbourne@example.com,(213) 555-0166,2019-09-12,56,13500.0,retired,795,Los Angeles,False,desktop,google_ads,0
+CUST0348,Ursula Honeywell,female,ursula.honeywell@example.com,(312) 555-0199,2020-02-25,38,7700.0,employed,770,Chicago,True,mobile,organic,0
+CUST0349,Valentine Ponsonby,male,valentine.ponsonby@example.com,(713) 555-0122,2018-05-08,60,14300.0,retired,800,Houston,False,tablet,referral_friend,0
+CUST0350,Winifred Danvers,female,winifred.danvers@example.com,(212) 555-0155,2021-08-21,35,6500.0,student,740,New York,False,desktop,instagram,1
+CUST0351,Xavier Allerton,male,xavier.allerton@example.com,(305) 555-0188,2018-07-14,47,11400.0,employed,785,Miami,False,mobile,facebook,0
+CUST0352,Yvette Blackwood,female,yvette.blackwood@example.com,(213) 555-0111,2021-01-27,52,13100.0,self-employed,790,Los Angeles,True,desktop,google_ads,0
+CUST0353,Zane Worthington,male,zane.worthington@example.com,(312) 555-0144,2019-04-10,36,6900.0,employed,760,Chicago,False,tablet,organic,0
+CUST0354,Abigail Ashworth,female,abigail.ashworth@example.com,(713) 555-0177,2020-09-23,31,4900.0,student,725,Houston,False,mobile,referral_friend,1
+CUST0355,Benedict Fairchild,male,benedict.fairchild@example.com,(212) 555-0100,2018-12-06,54,13700.0,retired,805,New York,True,desktop,instagram,0
+CUST0356,Cecilia Harrington,female,cecilia.harrington@example.com,(305) 555-0133,2021-06-19,41,9500.0,employed,795,Miami,False,tablet,facebook,0
+CUST0357,Damian Kingsley,male,damian.kingsley@example.com,(213) 555-0166,2019-09-02,46,11100.0,self-employed,790,Los Angeles,False,mobile,google_ads,0
+CUST0358,Esme Montague,female,esme.montague@example.com,(312) 555-0199,2020-02-15,34,6100.0,employed,770,Chicago,True,desktop,organic,0
+CUST0359,Felix Radcliffe,male,felix.radcliffe@example.com,(713) 555-0122,2018-05-28,58,14200.0,retired,815,Houston,False,tablet,referral_friend,0
+CUST0360,Genevieve Waverly,female,genevieve.waverly@example.com,(212) 555-0155,2021-08-11,32,5200.0,student,740,New York,False,mobile,instagram,1
+CUST0361,Hugo Chadwick,male,hugo.chadwick@example.com,(305) 555-0188,2019-11-24,43,10200.0,employed,800,Miami,True,desktop,facebook,0
+CUST0362,Isla Pemberton,female,isla.pemberton@example.com,(213) 555-0111,2020-04-07,50,12400.0,self-employed,795,Los Angeles,False,tablet,google_ads,0
+CUST0363,Jasper Stanhope,male,jasper.stanhope@example.com,(312) 555-0144,2018-09-20,38,7800.0,employed,785,Chicago,False,mobile,organic,0
+CUST0364,Katherine Whitaker,female,katherine.whitaker@example.com,(713) 555-0177,2021-03-03,29,4300.0,student,750,Houston,True,desktop,referral_friend,1
+CUST0365,Leo Forsythe,male,leo.forsythe@example.com,(212) 555-0100,2019-06-16,45,10700.0,employed,805,New York,False,tablet,instagram,0
+CUST0366,Madeleine Barrington,female,madeleine.barrington@example.com,(305) 555-0133,2020-10-29,42,9700.0,employed,800,Miami,False,mobile,facebook,0
+CUST0367,Nathan Chatsworth,male,nathan.chatsworth@example.com,(213) 555-0166,2018-01-12,55,13900.0,retired,820,Los Angeles,True,desktop,google_ads,0
+CUST0368,Olivia Kingsford,female,olivia.kingsford@example.com,(312) 555-0199,2021-07-25,37,7400.0,employed,790,Chicago,False,tablet,organic,0
+CUST0369,Peter Haverhill,male,peter.haverhill@example.com,(713) 555-0122,2019-10-08,60,14600.0,retired,825,Houston,False,mobile,referral_friend,0
+CUST0370,Quinn Wimbleton,female,quinn.wimbleton@example.com,(212) 555-0155,2020-03-21,35,6700.0,student,770,New York,True,desktop,instagram,1
+CUST0371,Rupert Ashbury,male,rupert.ashbury@example.com,(305) 555-0188,2018-06-04,48,11800.0,employed,810,Miami,False,tablet,facebook,0
+CUST0372,Sophia Wrotham,female,sophia.wrotham@example.com,(213) 555-0111,2021-09-17,53,13300.0,self-employed,805,Los Angeles,False,mobile,google_ads,0
+CUST0373,Theodore Thorneby,male,theodore.thorneby@example.com,(312) 555-0144,2019-12-30,40,8900.0,employed,800,Chicago,True,desktop,organic,0
+CUST0374,Ursula Litchfield,female,ursula.litchfield@example.com,(713) 555-0177,2020-05-13,33,5800.0,student,780,Houston,False,tablet,referral_friend,1
+CUST0375,Vincent Worplesdon,male,vincent.worplesdon@example.com,(212) 555-0100,2018-08-26,46,11200.0,employed,815,New York,False,mobile,instagram,0
+CUST0376,Winona Cholmondeley,female,winona.cholmondeley@example.com,(305) 555-0133,2021-02-09,43,10400.0,self-employed,810,Miami,True,desktop,facebook,0
+CUST0377,Xander Featherington,male,xander.featherington@example.com,(213) 555-0166,2019-05-22,56,14100.0,retired,830,Los Angeles,False,tablet,google_ads,0
+CUST0378,Yara Winterbourne,female,yara.winterbourne@example.com,(312) 555-0199,2020-08-05,39,8200.0,employed,805,Chicago,False,mobile,organic,0
+CUST0379,Zachary Honeywell,male,zachary.honeywell@example.com,(713) 555-0122,2018-11-18,62,14900.0,retired,835,Houston,True,desktop,referral_friend,0
+CUST0380,Alice Ponsonby,female,alice.ponsonby@example.com,(212) 555-0155,2021-04-01,36,7100.0,student,790,New York,False,tablet,instagram,1
+CUST0381,Barnaby Danvers,male,barnaby.danvers@example.com,(305) 555-0188,2019-07-14,49,12100.0,employed,825,Miami,False,mobile,facebook,0
+CUST0382,Clara Allerton,female,clara.allerton@example.com,(213) 555-0111,2020-12-27,54,13800.0,self-employed,820,Los Angeles,True,desktop,google_ads,0
+CUST0383,Dominic Blackwood,male,dominic.blackwood@example.com,(312) 555-0144,2018-03-10,41,9600.0,employed,815,Chicago,False,tablet,organic,0
+CUST0384,Eleanor Worthington,female,eleanor.worthington@example.com,(713) 555-0177,2021-06-23,34,6300.0,student,800,Houston,False,mobile,referral_friend,0
+CUST0385,Finn Ashworth,male,finn.ashworth@example.com,(212) 555-0100,2019-09-06,47,11500.0,employed,830,New York,False,desktop,instagram,0
+CUST0386,Grace Fairchild,female,grace.fairchild@example.com,(305) 555-0133,2020-02-19,42,10100.0,self-employed,825,Miami,True,tablet,facebook,0
+CUST0387,Henry Harrington,male,henry.harrington@example.com,(213) 555-0166,2018-05-02,57,14400.0,retired,840,Los Angeles,False,mobile,google_ads,0
+CUST0388,Iris Kingsley,female,iris.kingsley@example.com,(312) 555-0199,2021-08-15,40,8700.0,employed,820,Chicago,False,desktop,organic,0
+CUST0389,Jacob Montague,male,jacob.montague@example.com,(713) 555-0122,2019-11-28,63,15200.0,retired,845,Houston,True,tablet,referral_friend,0
+CUST0390,Kate Radcliffe,female,kate.radcliffe@example.com,(212) 555-0155,2020-04-11,37,7500.0,student,810,New York,False,mobile,instagram,1
+CUST0391,Liam Waverly,male,liam.waverly@example.com,(305) 555-0188,2018-07-24,50,12700.0,employed,835,Miami,False,desktop,facebook,0
+CUST0392,Mia Chadwick,female,mia.chadwick@example.com,(213) 555-0111,2021-01-07,55,14200.0,self-employed,830,Los Angeles,True,tablet,google_ads,0
+CUST0393,Noah Pemberton,male,noah.pemberton@example.com,(312) 555-0144,2019-04-20,43,10800.0,employed,825,Chicago,False,mobile,organic,0
+CUST0394,Olive Stanhope,female,olive.stanhope@example.com,(713) 555-0177,2020-09-03,35,6900.0,student,820,Houston,False,desktop,referral_friend,1
+CUST0395,Patrick Whitaker,male,patrick.whitaker@example.com,(212) 555-0100,2018-12-16,48,11900.0,employed,840,New York,True,tablet,instagram,0
+CUST0396,Quinn Forsythe,female,quinn.forsythe@example.com,(305) 555-0133,2021-06-29,44,10600.0,self-employed,835,Miami,False,mobile,facebook,0
+CUST0397,Ryan Barrington,male,ryan.barrington@example.com,(213) 555-0166,2019-09-12,58,14700.0,retired,850,Los Angeles,False,desktop,google_ads,0
+CUST0398,Sophie Chatsworth,female,sophie.chatsworth@example.com,(312) 555-0199,2020-02-25,41,9400.0,employed,830,Chicago,True,mobile,organic,0
+CUST0399,Thomas Kingsford,male,thomas.kingsford@example.com,(713) 555-0122,2018-05-08,64,15500.0,retired,855,Houston,False,tablet,referral_friend,0
+CUST0400,Una Haverhill,female,una.haverhill@example.com,(212) 555-0155,2021-08-21,38,7900.0,student,830,New York,False,desktop,instagram,1
+CUST0401,Victor Wimbleton,male,victor.wimbleton@example.com,(305) 555-0188,2019-05-12,51,13200.0,employed,850,Miami,False,desktop,facebook,0
+CUST0402,Willa Ashbury,female,willa.ashbury@example.com,(213) 555-0111,2020-11-27,56,14800.0,self-employed,845,Los Angeles,True,mobile,google_ads,0
+CUST0403,Xander Wrotham,male,xander.wrotham@example.com,(312) 555-0144,2018-03-08,39,8200.0,employed,835,Chicago,False,tablet,organic,0
+CUST0404,Yvaine Thorneby,female,yvaine.thorneby@example.com,(713) 555-0177,2021-07-15,34,6100.0,student,725,Houston,True,mobile,referral_friend,1
+CUST0405,Zacharias Litchfield,male,zacharias.litchfield@example.com,(212) 555-0100,2019-09-22,47,11800.0,employed,840,New York,False,desktop,instagram,0
+CUST0406,Ada Worplesdon,female,ada.worplesdon@example.com,(305) 555-0133,2020-02-11,42,9700.0,self-employed,835,Miami,False,tablet,facebook,0
+CUST0407,Barnaby Cholmondeley,male,barnaby.cholmondeley@example.com,(213) 555-0166,2018-06-29,55,14200.0,retired,850,Los Angeles,True,mobile,google_ads,0
+CUST0408,Cecily Featherington,female,cecily.featherington@example.com,(312) 555-0199,2021-04-03,38,7600.0,employed,830,Chicago,False,desktop,organic,0
+CUST0409,Damian Winterbourne,male,damian.winterbourne@example.com,(713) 555-0122,2019-12-16,61,15300.0,retired,855,Houston,False,tablet,referral_friend,0
+CUST0410,Elspeth Honeywell,female,elspeth.honeywell@example.com,(212) 555-0155,2020-08-21,36,6900.0,student,740,New York,True,mobile,instagram,1
+CUST0411,Finnian Ponsonby,male,finnian.ponsonby@example.com,(305) 555-0188,2018-01-14,49,12500.0,employed,845,Miami,False,desktop,facebook,0
+CUST0412,Genevra Danvers,female,genevra.danvers@example.com,(213) 555-0111,2021-10-27,52,13800.0,self-employed,840,Los Angeles,True,tablet,google_ads,0
+CUST0413,Humphrey Allerton,male,humphrey.allerton@example.com,(312) 555-0144,2019-07-09,43,10500.0,employed,835,Chicago,False,mobile,organic,0
+CUST0414,Isadora Blackwood,female,isadora.blackwood@example.com,(713) 555-0177,2020-05-24,30,4700.0,student,750,Houston,False,desktop,referral_friend,1
+CUST0415,Jerome Worthington,male,jerome.worthington@example.com,(212) 555-0100,2018-11-17,45,11200.0,employed,850,New York,True,tablet,instagram,0
+CUST0416,Katarina Ashworth,female,katarina.ashworth@example.com,(305) 555-0133,2021-03-02,40,8900.0,self-employed,845,Miami,False,mobile,facebook,0
+CUST0417,Lucian Fairchild,male,lucian.fairchild@example.com,(213) 555-0166,2019-08-19,57,14700.0,retired,855,Los Angeles,False,desktop,google_ads,0
+CUST0418,Melisande Harrington,female,melisande.harrington@example.com,(312) 555-0199,2020-01-12,35,6500.0,employed,840,Chicago,True,tablet,organic,0
+CUST0419,Nathaniel Kingsley,male,nathaniel.kingsley@example.com,(713) 555-0122,2018-04-05,59,15100.0,retired,860,Houston,False,mobile,referral_friend,0
+CUST0420,Ophelia Montague,female,ophelia.montague@example.com,(212) 555-0155,2021-09-28,33,5900.0,student,760,New York,False,desktop,instagram,1
+CUST0421,Percival Radcliffe,male,percival.radcliffe@example.com,(305) 555-0188,2019-02-11,48,12200.0,employed,850,Miami,True,mobile,facebook,0
+CUST0422,Quintessa Waverly,female,quintessa.waverly@example.com,(213) 555-0111,2020-06-26,51,13500.0,self-employed,845,Los Angeles,False,tablet,google_ads,0
+CUST0423,Rupert Chadwick,male,rupert.chadwick@example.com,(312) 555-0144,2018-09-13,44,10200.0,employed,840,Chicago,False,desktop,organic,0
+CUST0424,Seraphina Pemberton,female,seraphina.pemberton@example.com,(713) 555-0177,2021-01-08,29,4300.0,student,770,Houston,True,tablet,referral_friend,1
+CUST0425,Theodore Stanhope,male,theodore.stanhope@example.com,(212) 555-0100,2019-10-23,46,11500.0,employed,855,New York,False,mobile,instagram,0
+CUST0426,Ursuline Whitaker,female,ursuline.whitaker@example.com,(305) 555-0133,2020-04-17,41,9400.0,self-employed,850,Miami,False,desktop,facebook,0
+CUST0427,Valentine Forsythe,male,valentine.forsythe@example.com,(213) 555-0166,2018-07-02,54,14100.0,retired,860,Los Angeles,True,tablet,google_ads,0
+CUST0428,Winifred Barrington,female,winifred.barrington@example.com,(312) 555-0199,2021-02-25,37,7200.0,employed,850,Chicago,False,mobile,organic,0
+CUST0429,Xavier Chatsworth,male,xavier.chatsworth@example.com,(713) 555-0122,2019-05-10,60,15600.0,retired,870,Houston,False,desktop,referral_friend,0
+CUST0430,Ysabel Kingsford,female,ysabel.kingsford@example.com,(212) 555-0155,2020-08-05,32,5400.0,student,780,New York,True,mobile,instagram,1
+CUST0431,Zachary Haverhill,male,zachary.haverhill@example.com,(305) 555-0188,2018-12-20,50,12900.0,employed,860,Miami,False,desktop,facebook,0
+CUST0432,Abigail Wimbleton,female,abigail.wimbleton@example.com,(213) 555-0111,2021-05-15,53,14400.0,self-employed,855,Los Angeles,True,tablet,google_ads,0
+CUST0433,Barnabas Ashbury,male,barnabas.ashbury@example.com,(312) 555-0144,2019-08-08,45,10800.0,employed,850,Chicago,False,mobile,organic,0
+CUST0434,Clarissa Wrotham,female,clarissa.wrotham@example.com,(713) 555-0177,2020-03-03,31,5100.0,student,790,Houston,False,desktop,referral_friend,1
+CUST0435,Dominic Thorneby,male,dominic.thorneby@example.com,(212) 555-0100,2018-10-16,47,11900.0,employed,865,New York,False,tablet,instagram,0
+CUST0436,Eleanora Litchfield,female,eleanora.litchfield@example.com,(305) 555-0133,2021-07-11,42,9900.0,self-employed,860,Miami,True,mobile,facebook,0
+CUST0437,Ferdinand Worplesdon,male,ferdinand.worplesdon@example.com,(213) 555-0166,2019-04-04,56,14900.0,retired,870,Los Angeles,False,desktop,google_ads,0
+CUST0438,Georgiana Cholmondeley,female,georgiana.cholmondeley@example.com,(312) 555-0199,2020-09-27,39,8000.0,employed,860,Chicago,False,tablet,organic,0
+CUST0439,Horatio Featherington,male,horatio.featherington@example.com,(713) 555-0122,2018-02-10,62,15900.0,retired,880,Houston,True,mobile,referral_friend,0
+CUST0440,Isolde Winterbourne,female,isolde.winterbourne@example.com,(212) 555-0155,2021-06-23,36,7100.0,student,800,New York,False,desktop,instagram,1
+CUST0441,Julian Honeywell,male,julian.honeywell@example.com,(305) 555-0188,2019-01-14,51,13300.0,employed,870,Miami,False,tablet,facebook,0
+CUST0442,Katherine Ponsonby,female,katherine.ponsonby@example.com,(213) 555-0111,2020-04-09,54,14600.0,self-employed,865,Los Angeles,True,desktop,google_ads,0
+CUST0443,Laurence Danvers,male,laurence.danvers@example.com,(312) 555-0144,2018-07-24,44,10600.0,employed,860,Chicago,False,mobile,organic,0
+CUST0444,Millicent Allerton,female,millicent.allerton@example.com,(713) 555-0177,2021-02-17,33,5700.0,student,810,Houston,False,tablet,referral_friend,1
+CUST0445,Nicholas Blackwood,male,nicholas.blackwood@example.com,(212) 555-0100,2019-09-30,48,12400.0,employed,875,New York,True,mobile,instagram,0
+CUST0446,Octavia Worthington,female,octavia.worthington@example.com,(305) 555-0133,2020-12-15,43,10100.0,self-employed,870,Miami,False,desktop,facebook,0
+CUST0447,Percival Ashworth,male,percival.ashworth@example.com,(213) 555-0166,2018-05-08,57,15200.0,retired,885,Los Angeles,False,tablet,google_ads,0
+CUST0448,Quinn Fairchild,female,quinn.fairchild@example.com,(312) 555-0199,2021-08-01,40,8700.0,employed,875,Chicago,True,mobile,organic,0
+CUST0449,Rupert Harrington,male,rupert.harrington@example.com,(713) 555-0122,2019-03-14,63,16200.0,retired,890,Houston,False,desktop,referral_friend,0
+CUST0450,Selina Kingsley,female,selina.kingsley@example.com,(212) 555-0155,2020-06-29,37,7400.0,student,820,New York,False,tablet,instagram,1
+CUST0451,Theodore Montague,male,theodore.montague@example.com,(305) 555-0188,2019-02-14,52,13900.0,self-employed,745,Miami,False,desktop,facebook,0
+CUST0452,Ursula Radcliffe,female,ursula.radcliffe@example.com,(213) 555-0111,2020-07-28,55,15300.0,retired,780,Los Angeles,True,mobile,google_ads,0
+CUST0453,Vincent Waverly,male,vincent.waverly@example.com,(312) 555-0144,2018-11-03,41,9250.0,employed,735,Chicago,False,tablet,organic,0
+CUST0454,Winona Chadwick,female,winona.chadwick@example.com,(713) 555-0177,2021-04-16,36,6700.0,student,655,Houston,True,mobile,referral_friend,1
+CUST0455,Xavier Pemberton,male,xavier.pemberton@example.com,(212) 555-0100,2019-09-21,48,12500.0,employed,765,New York,False,desktop,instagram,0
+CUST0456,Yvonne Stanhope,female,yvonne.stanhope@example.com,(305) 555-0133,2020-12-06,43,10400.0,self-employed,740,Miami,False,tablet,facebook,0
+CUST0457,Zachary Whitaker,male,zachary.whitaker@example.com,(213) 555-0166,2018-05-19,57,14800.0,retired,795,Los Angeles,True,mobile,google_ads,0
+CUST0458,Alice Forsythe,female,alice.forsythe@example.com,(312) 555-0199,2021-08-02,39,8100.0,employed,750,Chicago,False,desktop,organic,0
+CUST0459,Barnaby Barrington,male,barnaby.barrington@example.com,(713) 555-0122,2019-01-15,61,15700.0,retired,810,Houston,False,tablet,referral_friend,0
+CUST0460,Cecilia Chatsworth,female,cecilia.chatsworth@example.com,(212) 555-0155,2020-04-30,34,6100.0,student,665,New York,True,mobile,instagram,1
+CUST0461,Dominic Kingsford,male,dominic.kingsford@example.com,(305) 555-0188,2018-10-13,50,13200.0,employed,775,Miami,False,desktop,facebook,0
+CUST0462,Eleanor Haverhill,female,eleanor.haverhill@example.com,(213) 555-0111,2021-01-26,53,14400.0,self-employed,785,Los Angeles,True,tablet,google_ads,0
+CUST0463,Felix Wimbleton,male,felix.wimbleton@example.com,(312) 555-0144,2019-06-09,45,11100.0,employed,760,Chicago,False,mobile,organic,0
+CUST0464,Genevieve Ashbury,female,genevieve.ashbury@example.com,(713) 555-0177,2020-03-24,31,4900.0,student,675,Houston,False,desktop,referral_friend,1
+CUST0465,Humphrey Wrotham,male,humphrey.wrotham@example.com,(212) 555-0100,2018-08-07,47,11800.0,employed,785,New York,True,tablet,instagram,0
+CUST0466,Isla Thorneby,female,isla.thorneby@example.com,(305) 555-0133,2021-05-20,42,9800.0,self-employed,770,Miami,False,mobile,facebook,0
+CUST0467,Julian Litchfield,male,julian.litchfield@example.com,(213) 555-0166,2019-10-03,56,15100.0,retired,805,Los Angeles,False,desktop,google_ads,0
+CUST0468,Katherine Worplesdon,female,katherine.worplesdon@example.com,(312) 555-0199,2020-01-16,38,7500.0,employed,775,Chicago,True,tablet,organic,0
+CUST0469,Laurence Cholmondeley,male,laurence.cholmondeley@example.com,(713) 555-0122,2018-04-01,63,16000.0,retired,815,Houston,False,mobile,referral_friend,0
+CUST0470,Matilda Featherington,female,matilda.featherington@example.com,(212) 555-0155,2021-07-14,37,7200.0,student,685,New York,False,desktop,instagram,1
+CUST0471,Nathaniel Winterbourne,male,nathaniel.winterbourne@example.com,(305) 555-0188,2019-12-27,51,13600.0,employed,795,Miami,True,mobile,facebook,0
+CUST0472,Olive Honeywell,female,olive.honeywell@example.com,(213) 555-0111,2020-05-10,54,14700.0,self-employed,800,Los Angeles,False,tablet,google_ads,0
+CUST0473,Percival Ponsonby,male,percival.ponsonby@example.com,(312) 555-0144,2018-09-23,44,10700.0,employed,785,Chicago,False,desktop,organic,0
+CUST0474,Quinn Danvers,female,quinn.danvers@example.com,(713) 555-0177,2021-02-04,33,5800.0,student,690,Houston,True,tablet,referral_friend,1
+CUST0475,Rupert Allerton,male,rupert.allerton@example.com,(212) 555-0100,2019-05-19,49,12700.0,employed,805,New York,False,mobile,instagram,0
+CUST0476,Sophia Blackwood,female,sophia.blackwood@example.com,(305) 555-0133,2020-08-02,46,11500.0,self-employed,790,Miami,False,desktop,facebook,0
+CUST0477,Theodore Worthington,male,theodore.worthington@example.com,(213) 555-0166,2018-01-15,59,15400.0,retired,820,Los Angeles,True,tablet,google_ads,0
+CUST0478,Ursula Ashworth,female,ursula.ashworth@example.com,(312) 555-0199,2021-04-28,40,8600.0,employed,795,Chicago,False,mobile,organic,0
+CUST0479,Victor Fairchild,male,victor.fairchild@example.com,(713) 555-0122,2019-07-11,64,16300.0,retired,825,Houston,False,desktop,referral_friend,0
+CUST0480,Winifred Harrington,female,winifred.harrington@example.com,(212) 555-0155,2020-10-24,39,7900.0,student,700,New York,False,tablet,instagram,1
+CUST0481,Xavier Kingsley,male,xavier.kingsley@example.com,(305) 555-0188,2018-03-07,53,14200.0,employed,810,Miami,True,mobile,facebook,0
+CUST0482,Ysabel Montague,female,ysabel.montague@example.com,(213) 555-0111,2021-06-20,47,12100.0,self-employed,805,Los Angeles,False,desktop,google_ads,0
+CUST0483,Zachary Radcliffe,male,zachary.radcliffe@example.com,(312) 555-0144,2019-11-03,42,10100.0,employed,800,Chicago,False,tablet,organic,0
+CUST0484,Alice Waverly,female,alice.waverly@example.com,(713) 555-0177,2020-04-16,35,6800.0,student,710,Houston,True,desktop,referral_friend,1
+CUST0485,Barnaby Chadwick,male,barnaby.chadwick@example.com,(212) 555-0100,2018-07-29,50,13400.0,employed,815,New York,False,mobile,instagram,0
+CUST0486,Cecilia Pemberton,female,cecilia.pemberton@example.com,(305) 555-0133,2021-01-12,45,11300.0,self-employed,810,Miami,True,tablet,facebook,0
+CUST0487,Dominic Stanhope,male,dominic.stanhope@example.com,(213) 555-0166,2019-04-05,58,15500.0,retired,830,Los Angeles,False,desktop,google_ads,0
+CUST0488,Eleanor Whitaker,female,eleanor.whitaker@example.com,(312) 555-0199,2020-09-18,41,9300.0,employed,815,Chicago,False,mobile,organic,0
+CUST0489,Felix Forsythe,male,felix.forsythe@example.com,(713) 555-0122,2018-02-01,65,16700.0,retired,835,Houston,True,tablet,referral_friend,0
+CUST0490,Genevieve Barrington,female,genevieve.barrington@example.com,(212) 555-0155,2021-05-14,37,7400.0,student,720,New York,False,desktop,instagram,1
+CUST0491,Humphrey Chatsworth,male,humphrey.chatsworth@example.com,(305) 555-0188,2019-08-07,52,14500.0,employed,825,Miami,False,mobile,facebook,0
+CUST0492,Isla Kingsford,female,isla.kingsford@example.com,(213) 555-0111,2020-11-20,48,12800.0,self-employed,820,Los Angeles,True,desktop,google_ads,0
+CUST0493,Julian Haverhill,male,julian.haverhill@example.com,(312) 555-0144,2018-06-13,44,10900.0,employed,815,Chicago,False,tablet,organic,0
+CUST0494,Katherine Wimbleton,female,katherine.wimbleton@example.com,(713) 555-0177,2021-03-26,32,5600.0,student,730,Houston,False,mobile,referral_friend,1
+CUST0495,Laurence Ashbury,male,laurence.ashbury@example.com,(212) 555-0100,2019-06-09,46,11900.0,employed,830,New York,True,tablet,instagram,0
+CUST0496,Matilda Wrotham,female,matilda.wrotham@example.com,(305) 555-0133,2020-09-22,51,14000.0,self-employed,825,Miami,False,desktop,facebook,0
+CUST0497,Nathaniel Thorneby,male,nathaniel.thorneby@example.com,(213) 555-0166,2018-04-05,59,15800.0,retired,840,Los Angeles,False,mobile,google_ads,0
+CUST0498,Olive Litchfield,female,olive.litchfield@example.com,(312) 555-0199,2021-07-18,43,10500.0,employed,830,Chicago,True,tablet,organic,0
+CUST0499,Percival Worplesdon,male,percival.worplesdon@example.com,(713) 555-0122,2019-10-01,66,17100.0,retired,845,Houston,False,desktop,referral_friend,0
+CUST0500,Quinn Cholmondeley,female,quinn.cholmondeley@example.com,(212) 555-0155,2020-12-14,40,8800.0,student,740,New York,False,mobile,instagram,1
