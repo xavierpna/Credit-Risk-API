@@ -9,6 +9,7 @@ class ClientInput(BaseModel):
     registration_date: str
     age: int
     estimated_monthly_income: int
+    employment_status: str
     credit_score: int
     location: str
     group_member: bool
