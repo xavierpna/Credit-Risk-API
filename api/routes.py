@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from api.models import ClientInput, ClientOutput
+from api.models import CustomerInput, CustomerOutput
 from api.utils import upload_model
 import numpy as np
 import pandas as pd
@@ -9,8 +9,8 @@ router = APIRouter()
 # Cargar modelo y preprocesador
 model, preprocessor = upload_model()
 
-@router.post("/predict", response_model=ClientOutput)
-def default_predict(client: ClientInput):
+@router.post("/predict", response_model=CustomerOutput)
+def default_predict(client: CustomerInput):
     # Convertir entrada a Df
     data = pd.DataFrame([client.dict()])
 

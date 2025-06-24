@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-class ClientInput(BaseModel):
+class CustomerInput(BaseModel):
     customer_id: str
     full_name: str
     gender: str
@@ -17,6 +17,6 @@ class ClientInput(BaseModel):
     referral_source: str
     default_flag: float
 
-class ClientOutput(BaseModel):
+class CustomerOutput(BaseModel):
     default_probability: float
     risk: str
