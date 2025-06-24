@@ -2,17 +2,6 @@
 
 ---
 
-## 🎯 Objective
-
-Develop an API that allows:
-
-- Loading customer data from various sources (CSV, JSON, XLSX, Databases).
-- Automatically preprocessing and validating the data.
-- Using a trained Machine Learning model to predict the probability of default for each customer.
-- Quickly and reliably querying information and prediction results.
-
----
-
 ## 🧱 Architecture
 
 Based on a modular architecture with the main components:
