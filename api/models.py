@@ -15,8 +15,7 @@ class CustomerInput(BaseModel):
     group_member: bool
     device_type: str
     referral_source: str
-    default_flag: float
 
 class CustomerOutput(BaseModel):
-    default_probability: float
+    default_flag: float
     risk: str
