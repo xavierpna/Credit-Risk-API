@@ -21,5 +21,4 @@ class Customer(Base):
     device_type = Column(String)
     referral_source = Column(String)
     default_flag = Column(Float)
-    default_probability = Column(Float)
     risk = Column(String)
