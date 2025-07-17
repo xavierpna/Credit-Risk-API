@@ -10,7 +10,7 @@ import pandas as pd
 router = APIRouter()
 
 def get_db():
-    db = SessionLocal
+    db = SessionLocal()
     try:
         yield db
     finally:
@@ -41,11 +41,15 @@ def save_customer_data(customer: CustomerInput, db: Session = Depends(get_db)):
     customer_data = pd.DataFrame([customer.dict()])
 
     # Calcular prediccion
-    input_df = preprocessor.transform([customer.dict()])
+    input_df = preprocessor.transform(customer_data)
     prob = model.predict_proba(input_df)[0][1]
     risk = "HIGH" if prob >= 0.7 else "MODERATED" if prob >= 0.4 else "LOW"
     customer_data["default_flag"] = round(prob, 2)
     customer_data["risk"] = risk
 
     saved_customer = save_customer(db, customer_data)
+
+    # Convertir registration_date a string si es datetime
+    if hasattr(saved_customer, "registration_date") and not isinstance(saved_customer.registration_date, str):
+        saved_customer.registration_date = str(saved_customer.registration_date)
     return saved_customer

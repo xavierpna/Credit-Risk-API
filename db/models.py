@@ -11,7 +11,7 @@ class Customer(Base):
     gender = Column(String)
     email = Column(String)
     phone_number = Column(String)
-    registration_date = String(String)
+    registration_date = Column(String)
     age = Column(Integer)
     estimated_monthly_income = Column(Integer)
     employment_status = Column(String)
